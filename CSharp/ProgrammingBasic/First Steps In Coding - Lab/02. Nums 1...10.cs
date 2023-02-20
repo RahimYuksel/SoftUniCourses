@@ -1,6 +1,6 @@
 using System;
 
-namespace Hello_Softuni
+namespace Nums_1_10
 {
     class Program
     {
