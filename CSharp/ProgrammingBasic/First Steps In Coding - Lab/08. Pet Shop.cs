@@ -1,6 +1,6 @@
 using System;
 
-namespace Hello_Softuni
+namespace Pet_Shop
 {
     class Program
     {
