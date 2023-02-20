@@ -1,6 +1,6 @@
 using System;
 
-namespace Hello_Softuni
+namespace rectangle_Area
 {
     class Program
     {
