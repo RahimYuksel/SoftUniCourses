@@ -1,6 +1,6 @@
 using System;
 
-namespace Hello_Softuni
+namespace Greetings_by_Name
 {
     class Program
     {
