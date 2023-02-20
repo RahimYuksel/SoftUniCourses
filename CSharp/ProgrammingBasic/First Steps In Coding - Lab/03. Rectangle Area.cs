@@ -1,6 +1,6 @@
 using System;
 
-namespace rectangle_Area
+namespace Rectangle_Area
 {
     class Program
     {
