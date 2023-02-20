@@ -1,6 +1,6 @@
 using System;
 
-namespace Hello_Softuni
+namespace Inches_to_Centimeters
 {
     class Program
     {
